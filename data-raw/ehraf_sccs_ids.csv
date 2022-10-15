@@ -1,0 +1,153 @@
+SCCS ID,SCCS Date,SCCS Sample Culture Name,OWC Culture Name,OWC Code
+1,1860,Nama or Namaqua,Khoi,FX13
+2,1950,Kung,San,FX10
+3,1895,Thonga or Bathonga,Tsonga,FT06
+4,1900,Lozi,Lozi,FQ09
+5,1890,Mbundu or Ovimbundu,Ovimbundu,FP13
+6,1920,Suku,Suku,FO46
+7,1897,Bemba or Awemba,Bemba,FQ05
+8,1934,Nyakyusa,Nyakyusa and Ngonde,FN17
+9,1930,Hadza,Hadza,FN11
+11,1920,Kikuyu or Aikikuyu,Gikuyu,FL10
+12,1875,Ganda or Baganda,Ganda,FK07
+13,1950,Mbuti or Bambuti,Mbuti,FO04
+14,1930,Nkundo Mongo,Mongo,FO32
+16,1920,Tiv or Munshi,Tiv,FF57
+17,1935,Ibo or Igbo,Igbo,FF26
+18,1890,Fon or Dahomeans,Fon,FA18
+19,1895,Ashanti,Akan,FE12
+20,1945,Mende,Mende,FC07
+21,1950,Wolof,Wolof,MS30
+22,1902,Bambara or Bamana,Bambara,FA08
+23,1934,Tallensi,Tallensi,FE11
+24,1940,Songhai,Songhai,MS20
+26,1900,Hausa,Hausa,MS12
+28,1905,Azande or Niam-Niam,Azande,FO07
+31,1910,Shilluk,Shilluk,FJ23
+32,1939,Mao,Mao,MP19
+33,1905,Kaffa,Kaffa,MP14
+34,1900,Masai,Maasai,FL12
+35,1935,Konso,Konso,MP17
+36,1900,Somali,Somali,MO04
+37,1953,Amhara,Amhara,MP05
+40,1950,Teda,Teda,MS22
+41,1900,Tuareg,Tuareg,MS25
+42,1926,Riffians,Berbers of Morocco,MX03
+43,1950,Egyptians,Fellahin,MR13
+45,-1750,Babylonians,Babylonians,MH07
+46,1913,Rwala Bedouin,Rwala Bedouin,MD04
+47,1950,Turks,Turks,MB01
+48,1910,Gheg Albanians,Albanians,EG01
+49,110,Romans,Imperial Romans,EI09
+50,1934,Basques,Basques,EX08
+51,1932,Irish,Rural Irish,ER06
+52,1950,Lapps,Saami,EP04
+53,1894,Yurak Samoyed,Nenets,RU41
+55,1880,Abkhaz,Abkhazians,RI03
+57,1951,Kurd,Kurds,MA11
+58,1958,Basseri,Basseri,MA10
+60,1938,Gond,Gond,AW32
+61,1900,Toda,Toda,AW60
+62,1940,Santal,Santal,AW42
+63,1945,Uttar Pradesh,Uttar Pradesh,AW19
+64,1934,Burusho,Burusho,AV07
+65,1885,Kazak,Kazakh,RQ02
+66,1920,Khalka Mongols,Mongolia,AH01
+67,1910,Lolo or Nosu,Yi,AE04
+68,1937,Lepcha or Rong,Lepcha,AK05
+69,1955,Garo,Garo,AR05
+71,1965,Burmese,Burmans,AP04
+73,1930,Vietnamese,Vietnamese,AM11
+75,1292,Khmer,Cambodians,AM04
+76,1955,Siamese/Central Thai,Central Thai,AO07
+77,1925,Semang,Semang,AN07
+78,1870,Nicobarese,Nicobarese,AZ07
+79,1860,Andamanese,Andamans,AZ02
+80,1860,Vedda,Vedda,AX05
+81,1925,Tanala,Tanala,FY08
+82,1958,Negri Sembilan,Malays,AN05
+83,1954,Javanese,Javanese,OE05
+84,1958,Balinese,Balinese,OF07
+85,1950,Iban/Sea Dayak,Iban,OC06
+87,1910,Toradja,Eastern Toraja,OG11
+89,1938,Alorese or Abui,Alorese,OF05
+90,1929,Tiwi,Tiwi,OI20
+91,1896,Aranda or Arunta,Aranda,OI08
+92,1925,Orokaiva,Orokaiva,OJ23
+93,1960,Kimam,Kimam,OJ82
+94,1955,Kapauku,Kapauku,OJ29
+95,1937,Kwoma,Kwoma,OJ13
+96,1929,Manus,Manus,OM06
+97,1930,New Ireland,Lesu,OM24
+98,1914,Trobrianders,Trobriands,OL06
+99,1939,Siuai,Siwai,ON19
+100,1930,Tikopia,Tikopia,OT11
+103,1845,Ajie,Kanak,OP04
+104,1820,Maori,Maori,OZ04
+105,1800,Marquesans,Marquesas,OX06
+106,1829,Samoans,Samoans,OU08
+107,,Gilbertese,Kiribati,OR06
+108,1900,Marshallese,Marshallese,OR11
+109,1947,Trukese,Chuuk,OR19
+110,1910,Yapese,Yapese,OR22
+111,1873,Palauans,Belau,OR15
+112,1910,Ifugao,Ifugao,OA19
+115,1915,Manchu,Manchu,AG04
+116,1947,Koreans,Korea,AA01
+117,1950,Japanese,Okayama,AB43
+118,1880,Ainu,Ainu,AB06
+119,1890,Gilyak,Nivkh,RX02
+121,1900,Chukchee,Chukchee,RY02
+122,1885,Ingalik,Ingalik,NA08
+123,1824,Aleut,Aleut,NA06
+124,1915,Copper Eskimo,Copper Inuit,ND08
+125,1910,Montagnais,Innu,NH06
+126,1650,Micmac,Mi'kmaq,NJ05
+127,1930,Northern Saulteaux,Ojibwa,NG06
+129,1900,Kaska,Kaska,ND12
+131,1875,Haida,Haida,NE09
+132,1880,Bellacoola,Nuxalk,NE06
+134,1850,Yurok,Yurok,NS31
+135,1850,Pomo,Pomo,NS18
+136,1850,Yokuts,Yokuts,NS29
+137,1870,Paiute,Northern Paiute,NR13
+138,1860,Klamath,Klamath,NR10
+139,1890,Kutenai,Kutenai,NF08
+140,1880,Gros Ventre,Gros Ventre,NQ13
+142,1867,Pawnee,Pawnee,NQ18
+143,1860,Omaha,Omaha,NQ21
+145,1800,Creek,Creek,NN11
+147,1870,Comanche,Comanche,NO06
+148,1870,Chiricahua Apache,Eastern Apache,NT08
+149,1880,Zuni,Zuni,NT23
+150,1918,Havasupai,Havasupai,NT14
+151,1910,Papago,O'odham,NU79
+152,1890,Huichol,Huichol,NU19
+153,1520,Aztec,Aztecs,NU07
+156,1921,Miskito,Miskito,SA15
+157,1917,Bribri,Talamancans,SA19
+158,1927,Cuna (Tule),Kuna,SB05
+159,1947,Goajiro,Goajiro,SC13
+160,1935,Haitians,Haitians,SV03
+161,1650,Callinago,Island Carib,ST13
+162,1935,Warrau,Warao,SS18
+163,1965,Yanomamo,Yanoama,SQ18
+164,1932,Barama Carib,Barama River Carib,SR09
+165,1928,Saramacca,Saramaka,SR15
+166,1850,Mundurucu,Mundurucu,SQ13
+167,1939,Cubeo,Tukano,SQ19
+168,1908,Cayapa,Chachi,SD06
+169,1920,Jivaro,Jivaro,SD09
+171,1530,Inca,Inka,SE13
+172,1940,Aymara,Aymara,SF05
+173,1942,Siriono,Sirionó,SF21
+174,1940,Nambicuara,Nambicuara,SP17
+175,1938,Trumai,Trumai,SP23
+176,1915,Timbira,Canela,SO08
+177,1550,Tupinamba,Tupinamba,SO09
+180,1932,Aweikoma,Xokleng,SM03
+181,1890,Cayua,Guaraní,SM04
+183,1750,Abipon,Abipón,SI04
+184,1950,Mapuche,Mapuche,SG04
+185,1870,Tehuelche or Patagon,Tehuelche,SH05
+186,1865,Yahgan,Yahgan,SH06
