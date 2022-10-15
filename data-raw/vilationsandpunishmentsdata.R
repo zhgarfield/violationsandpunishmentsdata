@@ -386,5 +386,4 @@ tree <- read.tree("data-raw/pruned_tree.tre")
 
 
 # Data package objects ----------------------------------------------------
-
 usethis::use_data(vilationsandpunishmentsdata, overwrite = TRUE)
