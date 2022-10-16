@@ -1,4 +1,4 @@
-# reputationdiversitydata
+# violationsandpunishmentdata
 Data package repository for the *Norm Violations and Punisments* package
 
 This package includes data used in the publication, *Norm violations and punishments across human societies*, by Zachary H. Garfield, Erik J. Ringen, William Buckner, Dithapelo Medupe, Richard W. Wrangham, & Luke Glowacki.
