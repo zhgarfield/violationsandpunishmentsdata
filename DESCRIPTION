@@ -1,12 +1,24 @@
 Package: violationsandpunishmentsdata
-Title: What the Package Does (One Line, Title Case)
+Title: A Cross-Cultural Database of Norm Violations and Punishment Across 131 Societies
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Zachary", "Garfield", , "zachary.garfield@iast.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1547-1492"))
+    person("Erik", "Ringen", , "ringen.erik@gmail.com", role = c("aut"),
+           comment = c(ORCID = "0000-0002-3565-6961"))
+    person("William", "Buckner", , "wvbuckner@ucdavis.edu", role = c("aut"),
+           comment = c(ORCID = "0000-0001-9786-2384"))
+    person("Dithapelo", "Medupe", , "dmedupe1@gmail.com", role = c("aut"))
+    person("Richard", "Wrangham", , "wranghamrichard@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-0435-2209"))
+    person("Luke", "Glowacki", , "lukeglowacki@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8314-5904"))
+Description: A cross-cultural database which includes researcher-coded variables on norm 
+    violations and punishments across 131 non-industrial societies, using the eHRAF and 
+    SCCS databases. Also included are culture-level predictor variables retrieved from 
+    the SCCS. See Garfield et al. *Norm Violations and Punishments Across Human Societies*
+    for more details. 
+License: `use_mit_license()`
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
