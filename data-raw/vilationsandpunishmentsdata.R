@@ -384,7 +384,13 @@ analysis_data <- select(d_sanctions, -c(Food_storage, Community_size, External_t
 write.tree(tree, "data-raw/pruned_tree.tre")
 tree <- read.tree("data-raw/pruned_tree.tre")
 
+# Rename data frames for package
+vilationsandpunishmentsdata <- analysis_data
+punishments_data_long <- d_SN_long
 
 
 # Data package objects ----------------------------------------------------
-usethis::use_data(vilationsandpunishmentsdata, overwrite = TRUE)
+usethis::use_data(vilationsandpunishmentsdata,
+                  punishments_data_long,
+                  tree,
+                  overwrite = TRUE)
