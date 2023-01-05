@@ -1,5 +1,5 @@
-#' @title DATASET_TITLE
-#' @description DATASET_DESCRIPTION
+#' @title vilationsandpunishmentsdata
+#' @description Primary data set of researcher-coded punishment types, SCCS socioecological predictor variables, and phylogenetic tree.
 #' @format A data frame with 131 rows and 14 variables:
 #' \describe{
 #'   \item{\code{SCCS_NAME}}{character SCCS culture name associated with ethnographic document.}
@@ -19,8 +19,8 @@
 #'}
 "vilationsandpunishmentsdata"
 
-#' @title DATASET_TITLE
-#' @description DATASET_DESCRIPTION
+#' @title punishments_data_long
+#' @description A long-form version of the data of norm violation, punishments, and codings for all cultures.
 #' @format A data frame with 2620 rows and 5 variables:
 #' \describe{
 #'   \item{\code{HRAF_ID}}{character HRAF OWC Culture ID.}
@@ -29,6 +29,6 @@
 #'   \item{\code{Sanction}}{character Punishment type being coded.}
 #'   \item{\code{Coding_label}}{character Coding for culture by varable, with text as label.}
 #'}
-#' @source \url{http://somewhere.important.com/}
+#'
 "punishments_data_long"
 
