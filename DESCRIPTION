@@ -1,6 +1,6 @@
 Package: violationsandpunishmentsdata
 Title: A Cross-Cultural Database of Norm Violations and Punishment Across 131 Societies
-Version: 0.0.0.9001
+Version: 0.0.0.9002
 Authors@R: 
     person("Zachary", "Garfield", , "zachary.garfield@iast.fr", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-1547-1492"))
