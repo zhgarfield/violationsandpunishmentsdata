@@ -5,11 +5,11 @@
 #'   \item{\code{SCCS_NAME}}{character SCCS culture name associated with ethnographic document.}
 #'   \item{\code{EHRAF_NAME}}{character HRAF culture name associated with ethnographic document.}
 #'   \item{\code{SCCS_ID}}{double SCCS identificaiton number of society associated with ethnographic document.}
-#'   \item{\code{Rape_viol}}{double Rape violation definition.}
-#'   \item{\code{War_viol}}{double War cowardice violation definition.}
-#'   \item{\code{Religion_viol}}{double Religeon violation definition.}
-#'   \item{\code{Food_viol}}{double Food violation definition.}
-#'   \item{\code{Adultery_viol}}{double Adultry violation definition.}
+#'   \item{\code{Rape_viol}}{double Evidence a violation of norms against rape occured.}
+#'   \item{\code{War_viol}}{double Evidence a violation of norms against war cowardice occured.}
+#'   \item{\code{Religion_viol}}{double Evidence a violation of religous norms occured.}
+#'   \item{\code{Food_viol}}{double FEvidence a violation of food related or food sharing norms occured.}
+#'   \item{\code{Adultery_viol}}{double Evidence a violation of norms against adultry occured.}
 #'   \item{\code{Reputation_SN_present}}{double Evidence of reputational sanctions, where reputations sanctions are generally expected or specific instance of community endorsed reputational damage (more than gossip, results in net cost or general devaluation of violator). Coded as 1 for evidence for, 0 for no evidence.}
 #'   \item{\code{Material_SN_present}}{double Generally expected or specific instance of community endorsed outcome that imposes direct economic or material costs on violator as a result of their violation. Coded as 1 for evidence for, 0 for no evidence.}
 #'   \item{\code{Physical_SN_present}}{double Generally expected or specific instance of community endorsed outcome that results in a specific instance of physical harm or restraint as a result of their violation (not revenge). Coded as 1 for evidence for, 0 for no evidence.}
