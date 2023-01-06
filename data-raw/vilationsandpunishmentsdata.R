@@ -390,10 +390,12 @@ tree <- read.tree("data-raw/pruned_tree.tre")
 # Rename data frames for package
 vilationsandpunishmentsdata <- analysis_data
 punishments_data_long <- d_SN_long
+culturemapdata <- d_map
 
 
 # Data package objects ----------------------------------------------------
 usethis::use_data(vilationsandpunishmentsdata,
                   punishments_data_long,
+                  culturemapdata,
                   tree,
                   overwrite = TRUE)
