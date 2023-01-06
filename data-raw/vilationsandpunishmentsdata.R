@@ -340,7 +340,10 @@ d_map <- left_join(d_all, d_location, by = "HRAF_ID")
 
 # Exporting data for phylogenetic analysis ------------------------------------------------------
 d_sanctions <- d_all %>%
-  select( c(SCCS_NAME, EHRAF_NAME, SCCS_ID, Reputation_SN_present, Material_SN_present, Physical_SN_present, Execution_SN_present, Food_storage, Community_size, External_trade))
+  select( c(SCCS_NAME, EHRAF_NAME, SCCS_ID,
+            Reputation_SN_present, Material_SN_present, Physical_SN_present, Execution_SN_present,
+            War_viol, Rape_viol, Religion_viol, Adultery_viol, Food_viol,
+            Food_storage, Community_size, External_trade))
 
 ## Bring in SCCS codebook
 d_SCCS <- read_csv("data-raw/SCCS-var1-2000.csv")[-187,]
