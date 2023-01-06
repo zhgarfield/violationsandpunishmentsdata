@@ -49,3 +49,10 @@
 #'
 "culturemapdata"
 
+#' @title tree
+#' @description A phylogentic tree in list form consisting of 254 edges.
+#' @format A list of four vectors.
+#
+#'
+"tree"
+
