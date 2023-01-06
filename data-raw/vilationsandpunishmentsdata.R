@@ -390,7 +390,8 @@ tree <- read.tree("data-raw/pruned_tree.tre")
 # Rename data frames for package
 vilationsandpunishmentsdata <- analysis_data
 punishments_data_long <- d_SN_long
-culturemapdata <- d_map
+culturemapdata <- d_map %>%
+  select("HRAF_ID", "Subsistence Type", "latitude", "longitude")
 
 
 # Data package objects ----------------------------------------------------

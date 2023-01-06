@@ -37,3 +37,15 @@
 #'
 "punishments_data_long"
 
+#' @title culturemapdata
+#' @description A data frame for producing a map of societies in the sample.
+#' @format A data frame with 131 rows and 4 variables:
+#' \describe{
+#'   \item{\code{HRAF_ID}}{character HRAF OWC Culture ID.}
+#'   \item{\code{Subsistence Type}}{character HRAF subsistence type for society.}
+#'   \item{\code{latitude}}{double Latitude for society location.}
+#'   \item{\code{longitude}}{double Longitude for society location.}
+#'}
+#'
+"culturemapdata"
+
