@@ -1,4 +1,4 @@
-#' @title vilationsandpunishmentsdata
+#' @title violpundata
 #' @description Primary data set of researcher-coded punishment types, SCCS socioecological predictor variables, and phylogenetic tree.
 #' @format A data frame with 131 rows and 14 variables:
 #' \describe{
@@ -22,7 +22,7 @@
 #'   \item{\code{trade}}{double Recoded SCCS V1 Intercommunity trade as food source. Coded as 0 for "Minimal/Absent", 1 for "Present".}
 #'   \item{\code{tree_name}}{character Phylogenetic tree name.}
 #'}
-"vilationsandpunishmentsdata"
+"violpundata"
 
 #' @title punishments_data_long
 #' @description A long-form version of the data of norm violation, punishments, and codings for all cultures.
