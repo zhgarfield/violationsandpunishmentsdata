@@ -3,7 +3,7 @@
 \docType{data}
 \name{punishments_data_long}
 \alias{punishments_data_long}
-\title{punishments_data_long}
+\title{punishments data (long form)}
 \format{
 A data frame with 2620 rows and 5 variables:
 \describe{

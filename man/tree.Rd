@@ -3,7 +3,7 @@
 \docType{data}
 \name{tree}
 \alias{tree}
-\title{tree}
+\title{phylogenetic tree}
 \format{
 A list of four vectors.
 }

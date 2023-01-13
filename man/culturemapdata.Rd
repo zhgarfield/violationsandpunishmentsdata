@@ -3,7 +3,7 @@
 \docType{data}
 \name{culturemapdata}
 \alias{culturemapdata}
-\title{culturemapdata}
+\title{culture map data}
 \format{
 A data frame with 131 rows and 4 variables:
 \describe{
