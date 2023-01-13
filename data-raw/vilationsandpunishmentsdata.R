@@ -383,7 +383,6 @@ tree <- drop.tip(tree, subset(tree$tip.label, !(tree$tip.label %in% d_sanctions$
 # Put dataframe in order of phylogeny
 d_sanctions <- d_sanctions[match(tree$tip.label, d_sanctions$tree_name),]
 
-# Export for analysis
 analysis_data <- select(d_sanctions, -c(Food_storage, Community_size, External_trade, v158,v9,v5))
 write.tree(tree, "data-raw/pruned_tree.tre")
 tree <- read.tree("data-raw/pruned_tree.tre")
@@ -393,11 +392,14 @@ violpundata <- analysis_data
 punishments_data_long <- d_SN_long
 culturemapdata <- d_map %>%
   select("HRAF_ID", "Subsistence Type", "latitude", "longitude")
+documentdata <- d_doc %>%
+  select(-"X")
 
 
 # Data package objects ----------------------------------------------------
 usethis::use_data(violpundata,
-                  punishments_data_long,
+                  punishmentsdata_long,
                   culturemapdata,
+                  documentdata,
                   tree,
                   overwrite = TRUE)
