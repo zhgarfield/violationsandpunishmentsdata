@@ -3,7 +3,7 @@
 \docType{data}
 \name{violpundata}
 \alias{violpundata}
-\title{violpundata}
+\title{violations and punishments data}
 \format{
 A data frame with 131 rows and 14 variables:
 \describe{

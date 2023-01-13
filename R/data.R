@@ -1,4 +1,4 @@
-#' @title violpundata
+#' @title violations and punishments data
 #' @description Primary data set of researcher-coded punishment types, SCCS socioecological predictor variables, and phylogenetic tree.
 #' @format A data frame with 131 rows and 14 variables:
 #' \describe{
@@ -29,7 +29,7 @@
 #'}
 "violpundata"
 
-#' @title punishments_data_long
+#' @title punishments data (long form)
 #' @description A long-form version of the data of norm violation, punishments, and codings for all cultures.
 #' @format A data frame with 2620 rows and 5 variables:
 #' \describe{
@@ -42,7 +42,7 @@
 #'
 "punishments_data_long"
 
-#' @title culturemapdata
+#' @title culture map data
 #' @description A data frame for producing a map of societies in the sample.
 #' @format A data frame with 131 rows and 4 variables:
 #' \describe{
@@ -54,7 +54,21 @@
 #'
 "culturemapdata"
 
-#' @title tree
+#' @title document data
+#' @description A data frame of document-level metadata.
+#' @format A data frame with 131 rows and 6 variables:
+#' \describe{
+#'   \item{\code{EHRAF_NAME}}{character eHRAF culture name.}
+#'   \item{\code{document_ID}}{character eHRAF document ID for document.}
+#'   \item{\code{culture_ID}}{double eHRAF OWC ID for culture.}
+#'   \item{\code{document_publication_date}}{integer Document publication year.}
+#'   \item{\code{document_page_count}}{integer Documentn page count.}
+#'   \item{\code{female_coauthor_present}}{integer Presence of a female author or co-author. Coded as 1 for present, 0 for absent.}
+#'}
+#'
+"documentdata"
+
+#' @title phylogenetic tree
 #' @description A phylogentic tree in list form consisting of 254 edges.
 #' @format A list of four vectors.
 #
