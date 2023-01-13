@@ -393,7 +393,8 @@ punishmentsdata_long <- d_SN_long
 culturemapdata <- d_map %>%
   select("HRAF_ID", "Subsistence Type", "latitude", "longitude")
 documentdata <- d_doc %>%
-  select(-"X")
+  mutate(tree_order = X) %>%
+  select(-X)
 
 
 # Data package objects ----------------------------------------------------

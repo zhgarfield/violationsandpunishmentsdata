@@ -64,6 +64,7 @@
 #'   \item{\code{document_publication_date}}{integer Document publication year.}
 #'   \item{\code{document_page_count}}{integer Documentn page count.}
 #'   \item{\code{female_coauthor_present}}{integer Presence of a female author or co-author. Coded as 1 for present, 0 for absent.}
+#'   \item{\code{tree_order}}{integer Order of societies in phylogentic tree.}
 #'}
 #'
 "documentdata"
