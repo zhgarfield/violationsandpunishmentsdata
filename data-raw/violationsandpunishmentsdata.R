@@ -363,7 +363,7 @@ d_sanctions <- left_join(d_sanctions, d_SCCS, by = c("SCCS_ID" = "sccs#")) %>% m
 
 
 # Read in phylo tree
-tree <- read.nexus("data-raw/sccs_supertree.nex")
+tree <- ape::read.nexus("data-raw/sccs_supertree.nex")
 
 # SCCS ID, sorted by order they appear in the phylo tree
 tree_order <- read_csv("data-raw/phylo_order.csv")
